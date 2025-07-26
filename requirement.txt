@@ -1,0 +1,12 @@
+flask
+streamlit
+requests
+langchain_groq
+langchain_core
+tavily-python
+requests
+filelock
+Flask-SQLAlchemy
+psycopg2-binary
+streamlit-cookies-manager
+flask_sqlalchemy
